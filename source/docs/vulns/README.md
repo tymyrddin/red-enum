@@ -1,4 +1,4 @@
-# Vulnerability scanning
+# Introduction
 
 Scan for vulnerabilities.
 
