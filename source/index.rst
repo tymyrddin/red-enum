@@ -41,7 +41,13 @@ Lay of the land
    docs/vulns/virtual.md
    docs/vulns/applications.md
    docs/vulns/automated.md
+   docs/vulns/greenbone.md
+   docs/vulns/nessus.md
+   docs/vulns/nikto.md
+   docs/vulns/sqlmap.md
    docs/vulns/prioritisation.md
+   docs/vulns/mapping.md
+   docs/vulns/more.md
 
 .. toctree::
    :caption: Links
