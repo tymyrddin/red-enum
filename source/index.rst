@@ -5,27 +5,6 @@ Lay of the land
    :glob:
    :maxdepth: 1
    :includehidden:
-   :caption: Information gathering
-
-   docs/recon/README.md
-   docs/recon/passive.md
-   docs/recon/active.md
-
-.. toctree::
-   :glob:
-   :maxdepth: 1
-   :includehidden:
-   :caption: Scanning
-
-   docs/scanning/README.md
-   docs/scanning/passive.md
-   docs/scanning/active.md
-   docs/scanning/creative.md
-
-.. toctree::
-   :glob:
-   :maxdepth: 1
-   :includehidden:
    :caption: Enumeration
 
    docs/enum/README.md
