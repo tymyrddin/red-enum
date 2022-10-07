@@ -1,6 +1,10 @@
 Lay of the land
 ===========================================
 
+The distinction between `reconnaissance<https://tymyrddin.github.io/red-recon/>`_ and initial enumeration is an
+arbitrary grey area, and during enumeration new hosts and/or services may show up, so what you can not find
+here you may find `there<https://tymyrddin.github.io/red-recon/>`_.
+
 .. toctree::
    :glob:
    :maxdepth: 1
