@@ -1,4 +1,4 @@
-# Automated scans
+# Pros and cons of automated scans
 
 ## Advantages automated scans	
 

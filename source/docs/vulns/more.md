@@ -50,7 +50,3 @@ target system.
 * [0-days In-the-Wild](https://googleprojectzero.github.io/0days-in-the-wild/)
 * [Blackhat 2020: Reversing the Root (pdf of slides)](https://i.blackhat.com/USA-20/Wednesday/us-20-Stone-Reversing-The-Root-Identifying-The-Exploited-Vulnerability-In-0-Days-Used-In-The-Wild.pdf)
 
-## Cheatsheets
-
-* [Exploits databases](cheatsheets:docs/enumeration/exploits-dbs)
-

@@ -1,5 +1,6 @@
 # Scanning a webserver with Nikto
 
+Incredibly aggressive and noisy.
 
 ## Example
 

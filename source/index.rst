@@ -23,6 +23,7 @@ here you may find `there <https://tymyrddin.github.io/red-recon/>`_.
    docs/vulns/systems.md
    docs/vulns/virtual.md
    docs/vulns/applications.md
+   docs/vulns/cloud.md
    docs/vulns/automated.md
    docs/vulns/greenbone.md
    docs/vulns/nessus.md

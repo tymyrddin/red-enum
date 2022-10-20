@@ -45,6 +45,3 @@ Dump data:
 * [SQLMap](https://www.kali.org/tools/sqlmap/)
 * [SQLMap wiki](https://github.com/sqlmapproject/sqlmap/wiki/Introduction)
 * [Burp suite CE proxy](https://portswigger.net/burp/documentation/desktop/getting-started/intercepting-http-traffic)
-
-## Cheatsheets
-* [SQLMap cheatsheet](cheatsheets:docs/databases/sqlmap-cheatsheet)
