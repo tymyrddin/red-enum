@@ -65,7 +65,7 @@ Unlike CVSS, VPR scoring takes into account the relevancy of a vulnerability. Fo
 regarding a vulnerability if that vulnerability does not apply to the organisation. VPR is also considerably 
 dynamic in its scoring, where the risk that a vulnerability may pose can change almost daily as it ages.
 
-VPR uses a similar scoring range as CVSS, which I have also put into the table below. Two notable differences are 
+VPR uses a similar scoring range as CVSS. Two notable differences are 
 that VPR does not have a `None/Informational` category, and because 
 [VPR uses a different scoring method (youtube)](https://www.youtube.com/watch?v=XYIsBeRV1YQ), the same 
 vulnerability will have a different score using VPR than when using CVSS.
@@ -75,8 +75,14 @@ vulnerability will have a different score using VPR than when using CVSS.
 In Nessus, the Vulnerability Information includes whether known exploits are available for a vulnerability. 
 The section labeled “Exploitable With” even shows what tools can be used to exploit the vulnerability.
 
+## Real Risk Score (RRS)
+
+Real Risk Score (RRS) not only takes into account the equation behind the CVSS of each vulnerability, but also the 
+Metasploit modules that could be launched against it, the malware kits detected, and even how old the vulnerability is.
+
 ## Resources
 
 * [NVD CVSS v2 Calculator](https://nvd.nist.gov/vuln-metrics/cvss/v2-calculator)
 * [NVD CVSS v3 Calculator](https://nvd.nist.gov/vuln-metrics/cvss/v3-calculator) 
 * [Vulnerability Priority Rating (VPR) Summary](https://www.tenable.com/sc-dashboards/vulnerability-priority-rating-vpr-summary)
+* [Real Risk Score](https://www.rapid7.com/products/insightvm/features/real-risk-prioritization/)

@@ -37,3 +37,7 @@ vulnerability ages.
 * VPR can only be adopted separate from a commercial platform.
 * VPR does not consider the CIA triad to the extent that CVSS does; meaning that risk to the confidentiality, integrity 
 and availability of data does not play a large factor in scoring vulnerabilities when using VPR.
+
+## Real Risk Score (RRS)
+
+Real Risk Score (RRS) may offer a good alternative. It enriches CVSS data to provide a more precise risk score. 
