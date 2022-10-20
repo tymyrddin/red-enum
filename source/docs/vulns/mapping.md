@@ -16,9 +16,7 @@
     2.3 Criticality
 ```
 
-## Notes
-
-### Common Vulnerability Scoring System (CVSS)
+## Common Vulnerability Scoring System (CVSS)
 
 The Common Vulnerability Scoring System (CVSS) is a standard vulnerability scoring
 system used by vulnerability scanners to identify the severity of the vulnerability.
@@ -56,7 +54,7 @@ End score:
 BaseScore = roundToOneDecimal(( (0.6*Impact) + (0.4*Exploitability)-1.5) * f(Impact))
 ```
 
-### Vulnerability Priority Rating (VPR)
+## Vulnerability Priority Rating (VPR)
 
 The VPR framework is a more modern framework in vulnerability management - developed by Tenable, an industry 
 solutions provider for vulnerability management. This framework is considered to be risk-driven; meaning that 
@@ -72,7 +70,7 @@ that VPR does not have a `None/Informational` category, and because
 [VPR uses a different scoring method (youtube)](https://www.youtube.com/watch?v=XYIsBeRV1YQ), the same 
 vulnerability will have a different score using VPR than when using CVSS.
 
-### Nessus
+## Nessus
 
 In Nessus, the Vulnerability Information includes whether known exploits are available for a vulnerability. 
 The section labeled “Exploitable With” even shows what tools can be used to exploit the vulnerability.

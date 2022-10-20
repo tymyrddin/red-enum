@@ -29,8 +29,8 @@ here you may find `there <https://tymyrddin.github.io/red-recon/>`_.
    docs/vulns/nessus.md
    docs/vulns/nikto.md
    docs/vulns/sqlmap.md
-   docs/vulns/prioritisation.md
    docs/vulns/mapping.md
+   docs/vulns/prioritisation.md
    docs/vulns/more.md
 
 .. toctree::

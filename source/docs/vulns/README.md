@@ -23,7 +23,7 @@ To compromise the security of the system and potentially gain full access to the
 * [Vulnerability scanning with Nessus](nessus.md)
 * [Scanning a webserver with Nikto](nikto.md)
 * [Scanning a webserver with SQLMap](sqlmap.md)
-* [Prioritisation](prioritisation.md)
 * [Mapping vulnerabilities to exploits](mapping.md)
+* [Prioritisation](prioritisation.md)
 * [Discovering more vulnerabilities/exploits](more.md)
 
