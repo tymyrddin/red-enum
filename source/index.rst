@@ -9,9 +9,35 @@ here you may find `there <https://tymyrddin.github.io/red-recon/>`_.
    :glob:
    :maxdepth: 1
    :includehidden:
-   :caption: Enumeration
+   :caption: Genral scanning
 
-   docs/enum/README.md
+   docs/scanning/README.md
+   docs/scanning/systems.md
+   docs/scanning/virtual.md
+   docs/scanning/sqlmap.md
+   docs/scanning/sensitive-files.md
+
+.. toctree::
+   :glob:
+   :maxdepth: 1
+   :includehidden:
+   :caption: Specific scanning
+
+   docs/more/README.md
+   Scanning applications <https://tymyrddin.github.io/red-app/>
+   Scanning API's <https://tymyrddin.github.io/red-api/>
+   Scanning the cloud <https://tymyrddin.github.io/red-cloud/>
+
+.. toctree::
+   :glob:
+   :maxdepth: 1
+   :includehidden:
+   :caption: Automated vulnerability scanning
+
+   docs/automated/README.md
+   docs/automated/greenbone.md
+   docs/automated/nessus.md
+   docs/automated/nikto.md
 
 .. toctree::
    :glob:
@@ -20,15 +46,6 @@ here you may find `there <https://tymyrddin.github.io/red-recon/>`_.
    :caption: Vulnerability identification
 
    docs/vulns/README.md
-   docs/vulns/systems.md
-   docs/vulns/virtual.md
-   docs/vulns/applications.md
-   docs/vulns/cloud.md
-   docs/vulns/automated.md
-   docs/vulns/greenbone.md
-   docs/vulns/nessus.md
-   docs/vulns/nikto.md
-   docs/vulns/sqlmap.md
    docs/vulns/mapping.md
    docs/vulns/prioritisation.md
    docs/vulns/more.md

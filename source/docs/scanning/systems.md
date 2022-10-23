@@ -1,5 +1,16 @@
 # Scanning systems
 
+* Enumerate hosts on the network using Zenmap. Zenmap is a version of Nmap that has a graphical interface.
+* Use Zenmap to create a network topology to help identify the network layout.
+* Try to enumerate users and groups.
+* Try to get a list of SMB shares on the system.
+* Enumerate uniform resource locators (URLs) and retrieve any web pages.
+* Identifying the software running on a system can be tricky. Get creative. For example, use Ncrack to do a dictionary
+attack on the administrator account and then supply that as the credentials to a script to see a list of the processes
+running on that system.
+* Get lists of services running on a system by performing an Nmap scan.
+* Try to obtain security tokens.
+* Enumerate social media posts by a user with a given IP address by using a tool like `recon-ng`.
 * A full scan does a variety of tests to identify vulnerabilities in the system. For example, Nessus can be set to
 use a number of plug-ins such as for checking for security issues with Simple Mail Transfer Protocol (SMTP)
 and Simple Network Management Protocol (SNMP) services, checking for Linux security issues, and checking for
