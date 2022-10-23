@@ -29,4 +29,5 @@ This project welcomes contributions and suggestions.
 [Open an issue here](https://github.com/tymyrddin/red-enum/issues)
 
 ## Mind
-Where you stand depends on where you sit, and all threats are cross-vector threats. Without a clear mandate for testing, measuring and reporting actual improvements in security, attempts at improving security makes absolutely no sense, not even for the low-hanging fruit.  
+
+The Yen Buddhists are the richest religious sect in the universe. They hold that the accumulation of money is a great evil and a burden to the soul. They therefore, regardless of personal hazard, see it as their unpleasant duty to acquire as much as possible in order to reduce the risk to innocent people. ~ (Terry Pratchett, Witches Abroad)
