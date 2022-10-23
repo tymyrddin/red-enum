@@ -18,7 +18,7 @@ Further exploitation of the system. Items of great interest:
 
 These specific scanning writeups are available in other repositories:
 
-* [Scanning applications](red-app:docs/recon/scanning)
-* [Scanning API's](red-api:docs/recon/scanning)
-* [Scanning the cloud](red-cloud:docs/recon/scanning)
+* [Scanning applications](red-app:docs/enum/scanning)
+* [Scanning API's](red-api:docs/enum/scanning)
+* [Scanning the cloud](red-cloud:docs/enum/scanning)
 

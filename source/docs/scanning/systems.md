@@ -35,3 +35,8 @@ membership, and other configuration settings.
 system including vulnerabilities related to user accounts (for example an account called "administrator" or "admin")
 and group membership (too many users in the administrators group), missing patches, and password policy configuration
 settings.
+
+## Resources
+
+* [Nmap](https://www.kali.org/tools/nmap/)
+* [Zenmap](https://www.kali.org/tools/zenmap-kbx/)
