@@ -15,7 +15,6 @@ here you may find `there <https://tymyrddin.github.io/red-recon/>`_.
    docs/scanning/systems.md
    docs/scanning/virtual.md
    docs/scanning/sqlmap.md
-   docs/scanning/sensitive-files.md
 
 .. toctree::
    :glob:

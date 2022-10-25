@@ -19,5 +19,4 @@ Further exploitation of the system. Items of great interest:
 * [Scanning systems](systems.md)
 * [Scanning virtualised systems](virtual.md)
 * [Scanning a webserver with SQLMap](sqlmap.md)
-* [Sensitive files discovery](sensitive-files.md)
 
