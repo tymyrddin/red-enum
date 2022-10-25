@@ -9,7 +9,7 @@ here you may find `there <https://tymyrddin.github.io/red-recon/>`_.
    :glob:
    :maxdepth: 1
    :includehidden:
-   :caption: Genral scanning
+   :caption: General scanning
 
    docs/scanning/README.md
    docs/scanning/systems.md
