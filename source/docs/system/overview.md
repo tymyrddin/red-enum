@@ -1,4 +1,4 @@
-# Scanning systems
+# Overview
 
 * Enumerate hosts on the network using Zenmap. Zenmap is a version of Nmap that has a graphical interface.
 * Use Zenmap to create a network topology to help identify the network layout.

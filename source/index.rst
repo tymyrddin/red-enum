@@ -1,7 +1,7 @@
 Lay of the land
 ===========================================
 
-The distinction between `reconnaissance <https://tymyrddin.github.io/red-recon/>`_ and initial enumeration is an
+The distinction between `reconnaissance <https://tymyrddin.github.io/red-recon/>`_ and remote enumeration is an
 arbitrary grey area, and during enumeration new hosts and/or services may show up, so what you can not find
 here you may find `there <https://tymyrddin.github.io/red-recon/>`_.
 
@@ -9,12 +9,24 @@ here you may find `there <https://tymyrddin.github.io/red-recon/>`_.
    :glob:
    :maxdepth: 1
    :includehidden:
-   :caption: General scanning
+   :caption: System scanning
 
-   docs/scanning/README.md
-   docs/scanning/systems.md
-   docs/scanning/virtual.md
-   docs/scanning/sqlmap.md
+   docs/system/README.md
+   docs/system/overview.md
+   docs/system/virtual.md
+   docs/system/sqlmap.md
+
+.. toctree::
+   :glob:
+   :maxdepth: 1
+   :includehidden:
+   :caption: Host enumeration
+
+   docs/enumeration/README.md
+   docs/enumeration/host.md
+   docs/enumeration/macos.md
+   docs/enumeration/linux.md
+   docs/enumeration/windows.md
 
 .. toctree::
    :glob:
