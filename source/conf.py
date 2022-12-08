@@ -78,9 +78,9 @@ html_show_copyright = False
 
 # Intersphinx
 intersphinx_mapping = {
-    "red-recon": ("https://tymyrddin.github.io/red-recon/", None),
-    "red-app": ("https://tymyrddin.github.io/red-app/", None),
-    "red-api": ("https://tymyrddin.github.io/red-api/", None),
-    "red-cloud": ("https://tymyrddin.github.io/red-cloud/", None),
+    "red-recon": ("https://red.tymyrddin.dev/projects/recon/en/latest/", None),
+    "red-cloud": ("https://red.tymyrddin.dev/projects/cloud/en/latest/", None),
+    "red-app": ("https://red.tymyrddin.dev/projects/app/en/latest/", None),
+    "red-api": ("https://red.tymyrddin.dev/projects/api/en/latest/", None),
 }
 myst_url_schemes = ["http", "https", ]
