@@ -35,9 +35,9 @@ here you may find `there <https://tymyrddin.github.io/red-recon/>`_.
    :caption: Specific scanning
 
    docs/more/README.md
-   Scanning applications <https://tymyrddin.github.io/red-app/docs/enum/scanning.html>
-   Scanning API's <https://tymyrddin.github.io/red-api/docs/enum/scanning.html>
-   Scanning the cloud <https://tymyrddin.github.io/red-cloud/docs/enum/scanning.html>
+   Scanning applications <https://red.tymyrddin.dev/projects/app/en/latest/docs/enum/scanning.html>
+   Scanning API's <https://red.tymyrddin.dev/projects/api/en/latest/docs/enum/scanning.html>
+   Scanning the cloud <https://red.tymyrddin.dev/projects/cloud/en/latest/docs/enum/scanning.html>
 
 .. toctree::
    :glob:
