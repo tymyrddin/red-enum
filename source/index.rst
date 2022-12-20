@@ -35,7 +35,6 @@ here you may find `there <https://red.tymyrddin.dev/projects/recon/en/latest/>`_
    :caption: Specific scanning
 
    docs/more/README.md
-   Scanning applications <https://red.tymyrddin.dev/projects/app/en/latest/docs/enum/scanning.html>
    Scanning API's <https://red.tymyrddin.dev/projects/api/en/latest/docs/enum/scanning.html>
    Scanning the cloud <https://red.tymyrddin.dev/projects/cloud/en/latest/docs/enum/scanning.html>
 
