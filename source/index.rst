@@ -5,6 +5,8 @@ The distinction between `reconnaissance <https://red.tymyrddin.dev/projects/reco
 arbitrary grey area, and during enumeration new hosts and/or services may show up, so what you can not find
 here you may find `there <https://red.tymyrddin.dev/projects/recon/en/latest/>`_.
 
+----
+
 .. toctree::
    :glob:
    :maxdepth: 1
@@ -59,8 +61,3 @@ here you may find `there <https://red.tymyrddin.dev/projects/recon/en/latest/>`_
    docs/vulns/mapping.md
    docs/vulns/prioritisation.md
    docs/vulns/more.md
-
-.. toctree::
-   :caption: Links
-
-   Red Team <https://red.tymyrddin.dev/>
