@@ -34,6 +34,16 @@ here you may find `there <https://red.tymyrddin.dev/projects/recon/en/latest/>`_
    :glob:
    :maxdepth: 1
    :includehidden:
+   :caption: Web applications
+
+   docs/app/README.md
+   docs/app/scanning.md
+   docs/app/binaries.md
+
+.. toctree::
+   :glob:
+   :maxdepth: 1
+   :includehidden:
    :caption: Specific scanning
 
    docs/more/README.md
