@@ -20,4 +20,3 @@ Move further and deeper into the scanning process to include security scanning a
 * [Download or obtain and decompile binaries](binaries.md)
 * [Automated vulnerability scanning](automated.md)
 * [Scanning an API](api.md)
-* [Scanning cloud infrastructure](cloud.md)

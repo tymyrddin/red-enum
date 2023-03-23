@@ -32,6 +32,7 @@ The distinction between `reconnaissance <https://red.tymyrddin.dev/projects/reco
    docs/system/linux.md
    docs/system/windows.md
    docs/system/virtual.md
+   docs/system/cloud.md
 
 .. toctree::
    :glob:
@@ -45,7 +46,6 @@ The distinction between `reconnaissance <https://red.tymyrddin.dev/projects/reco
    docs/app/binaries.md
    docs/app/automated.md
    docs/app/api.md
-   docs/app/cloud.md
 
 .. toctree::
    :glob:

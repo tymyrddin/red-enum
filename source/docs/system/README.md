@@ -26,3 +26,4 @@ To discover potential attack vectors in the system, and further exploitation of 
 * [Linux enumeration](linux.md)
 * [Windows enumeration](windows.md)
 * [Scanning virtualised systems](virtual.md)
+* [Scanning cloud infrastructure](cloud.md)
