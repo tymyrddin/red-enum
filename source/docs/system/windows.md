@@ -9,7 +9,7 @@ Get information:
 * Computer names
 * Shares
 * Windows information
-* Network information like DNS, SMTP, SNMP information
+* Network information like [DNS](dns.md), [SMTP](smtp.md), [SNMP](snmp.md) information
 * Application details
 * Banners
 * Routing tables
@@ -17,4 +17,9 @@ Get information:
 ## Tools
 
 * [Windows enumeration tools](red-testlab:docs/enum/windows)
+
+## Remediation
+
+* Minimize the attack surface by removing any unnecessary or unused service.
+* Ensure IPTables is configured to restrict the access.
 

@@ -1,5 +1,7 @@
 # Dynamic web application scanning
 
+Features of the two main [web application scanners](red-testlab:docs/enum/app) (community versions):
+
 | Feature                           | Burp Suite<br>Community<br>Edition | OWASP ZAP                                           | Burp Suite Pro                                                 |
 |:----------------------------------|:-----------------------------------|:----------------------------------------------------|:---------------------------------------------------------------|
 | Web Application Scanning          | Not Available                      | Available with<br>basic security<br>vulnerabilities | Available with<br>quality security<br>vulnerabilities          |
@@ -15,7 +17,3 @@
 | False Positive                    | Less                               | More                                                | Less                                                           |
 | Session Token<br>Entropy Analysis | Available                          | Not Available                                       | Available                                                      |
 | Comparison Feature                | Available                          | Not Available                                       | Available                                                      |
-
-## Tools
-
-* [Web application scanners](red-testlab:docs/enum/app)

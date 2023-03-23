@@ -8,6 +8,10 @@ Default SNMP passwords allow attackers to view or modify the SNMP configuration 
 * Traffic statistics
 * And more.
 
+## Tools
+
+* [SNMP enumeration tools](red-testlab:docs/enum/snmp)
+
 ## Remediation
 
 * Minimize the attack surface by removing the SNMP agents where not needed.
@@ -18,8 +22,4 @@ Default SNMP passwords allow attackers to view or modify the SNMP configuration 
 * Implement IPSec filtering.
 * Block access to TCP/UDP ports 161.
 * Encrypt and authenticate using IPSEC.
-
-## Tools
-
-* [SNMP enumeration tools](red-testlab:docs/enum/snmp)
 

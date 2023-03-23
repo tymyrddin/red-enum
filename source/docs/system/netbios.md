@@ -8,12 +8,11 @@ NetBIOS software runs on port 139 on the Windows operating system. File and prin
 * Launching a Denial of Service (DoS) attack on the remote machine.
 * Enumerating password policies on the remote machine.
 
-## Remediation
-
-* Minimise the attack surface by minimising the unnecessary service like Server Message Block (SMB).
-* Remove file and printer sharing in Windows OS.
-
 ## Tools
 
 * [NetBios enumeration tools](red-testlab:docs/enum/netbios)
 
+## Remediation
+
+* Minimise the attack surface by minimising the unnecessary service like Server Message Block (SMB).
+* Remove file and printer sharing in Windows OS.

@@ -2,6 +2,10 @@
 
 LDAP supports anonymous remote queries on the server. The query will disclose sensitive information such as usernames, address, contact details, etc.
 
+## Tools
+
+* [LDAP enumeration tools](red-testlab:docs/enum/ldap)
+
 ## Remediation
 
 * Use SSL to encrypt LDAP communication
@@ -12,7 +16,3 @@ LDAP supports anonymous remote queries on the server. The query will disclose se
 * Run Bloodhound’s Sharphound tool
 * Perform LDAP Reconnaissance activities within the active directory environment
 * Detect the activities in Windows event logs.
-
-## Tools
-
-* [LDAP enumeration tools](red-testlab:docs/enum/ldap)

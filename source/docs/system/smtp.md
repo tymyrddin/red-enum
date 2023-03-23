@@ -8,11 +8,12 @@ SMTP provides three built-in commands:
 
 SMTP servers respond differently to the commands mentioned above, and SMTP enumeration is possible due to varied responses. Attackers can determine the valid users on the SMTP servers with the same technique.
 
+## Tools
+
+* [SMTP enumeration tools](red-testlab:docs/enum/smtp)
+
 ## Remediation
 
 * Ignore email responses from unknown recipients.
 * Disable open relay functionality.
 * Prune any sensitive information like mail server and localhost in the mail responses.
-## Tools
-
-* [SMTP enumeration tools](red-testlab:docs/enum/smtp)
