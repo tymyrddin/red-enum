@@ -3,8 +3,6 @@ Lay of the land
 
 Move further and deeper into the scanning process to include security scanning. Enumeration is particularly successful in networks that contain unprotected network resources and services.
 
-Enumeration is a process of connecting to and interrogating a network or system to retrieve information about that network or system. Take information already gathered during reconnaissance (like IP addresses) and during scanning (open ports) and gather as much data about the targets and services running on the targets, using a variety of techniques and tools.
-
 The distinction between `reconnaissance <https://red.tymyrddin.dev/projects/recon/en/latest/>`_ and remote enumeration is an arbitrary grey area, and during enumeration new hosts and/or services may show up, so what you can not find here you may find `there <https://red.tymyrddin.dev/projects/recon/en/latest/>`_.
 
 ----

@@ -2,7 +2,7 @@
 
 ## What?
 
-Establish an active connection to the target hosts
+System enumeration is a process of connecting to and interrogating a network or system to retrieve information about that network or system. Take information already gathered during reconnaissance (like IP addresses) and during scanning (open ports) and gather as much data about the targets and services running on the targets, using a variety of techniques and tools.
 
 ## Why?
 
