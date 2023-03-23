@@ -1,4 +1,4 @@
-# Overview
+# Enumeration overview
 
 * Enumerate hosts on the network using Zenmap. Zenmap is a version of Nmap that has a graphical interface.
 * Use Zenmap to create a network topology to help identify the network layout.
@@ -8,7 +8,7 @@
 * Identifying the software running on a system can be tricky. Get creative. For example, use Ncrack to do a dictionary
 attack on the administrator account and then supply that as the credentials to a script to see a list of the processes
 running on that system.
-* Get lists of services running on a system by performing an Nmap scan.
+* Get lists of services running on a system by performing an nmap scan.
 * Try to obtain security tokens.
 * Enumerate social media posts by a user with a given IP address by using a tool like `recon-ng`.
 * A full scan does a variety of tests to identify vulnerabilities in the system. For example, Nessus can be set to
@@ -35,8 +35,3 @@ membership, and other configuration settings.
 system including vulnerabilities related to user accounts (for example an account called "administrator" or "admin")
 and group membership (too many users in the administrators group), missing patches, and password policy configuration
 settings.
-
-## Resources
-
-* [Nmap](https://www.kali.org/tools/nmap/)
-* [Zenmap](https://www.kali.org/tools/zenmap-kbx/)

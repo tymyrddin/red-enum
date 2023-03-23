@@ -1,34 +1,39 @@
 Lay of the land
 ===========================================
 
-The distinction between `reconnaissance <https://red.tymyrddin.dev/projects/recon/en/latest/>`_ and remote enumeration is an
-arbitrary grey area, and during enumeration new hosts and/or services may show up, so what you can not find
-here you may find `there <https://red.tymyrddin.dev/projects/recon/en/latest/>`_.
+Move further and deeper into the scanning process to include security scanning. Enumeration is particularly successful in networks that contain unprotected network resources and services.
+
+Enumeration is a process of connecting to and interrogating a network or system to retrieve information about that network or system. Take information already gathered during reconnaissance (like IP addresses) and during scanning (open ports) and gather as much data about the targets and services running on the targets, using a variety of techniques and tools.
+
+The distinction between `reconnaissance <https://red.tymyrddin.dev/projects/recon/en/latest/>`_ and remote enumeration is an arbitrary grey area, and during enumeration new hosts and/or services may show up, so what you can not find here you may find `there <https://red.tymyrddin.dev/projects/recon/en/latest/>`_.
 
 ----
 
 .. toctree::
-   :glob:
    :maxdepth: 1
    :includehidden:
-   :caption: System scanning
+   :caption: Preparation
 
-   docs/system/README.md
-   docs/system/overview.md
-   docs/system/virtual.md
-   docs/system/sqlmap.md
+   Build a local testlab <https://red.tymyrddin.dev/projects/testlab/en/latest/docs/webapp/README.html>
+   docs/overview.md
 
 .. toctree::
    :glob:
    :maxdepth: 1
    :includehidden:
-   :caption: Host enumeration
+   :caption: Systems
 
-   docs/enumeration/README.md
-   docs/enumeration/host.md
-   docs/enumeration/macos.md
-   docs/enumeration/linux.md
-   docs/enumeration/windows.md
+   docs/system/README.md
+   docs/system/netbios.md
+   docs/system/snmp.md
+   docs/system/ldap.md
+   docs/system/ntp.md
+   docs/system/smtp.md
+   docs/system/dns.md
+   docs/system/macos.md
+   docs/system/linux.md
+   docs/system/windows.md
+   docs/system/virtual.md
 
 .. toctree::
    :glob:
@@ -38,28 +43,11 @@ here you may find `there <https://red.tymyrddin.dev/projects/recon/en/latest/>`_
 
    docs/app/README.md
    docs/app/scanning.md
+   docs/app/database.md
    docs/app/binaries.md
-
-.. toctree::
-   :glob:
-   :maxdepth: 1
-   :includehidden:
-   :caption: Specific scanning
-
-   docs/more/README.md
-   Scanning API's <https://red.tymyrddin.dev/projects/api/en/latest/docs/enum/scanning.html>
-   Scanning the cloud <https://red.tymyrddin.dev/projects/cloud/en/latest/docs/enum/scanning.html>
-
-.. toctree::
-   :glob:
-   :maxdepth: 1
-   :includehidden:
-   :caption: Automated vulnerability scanning
-
-   docs/automated/README.md
-   docs/automated/greenbone.md
-   docs/automated/nessus.md
-   docs/automated/nikto.md
+   docs/app/automated.md
+   docs/app/api.md
+   docs/app/cloud.md
 
 .. toctree::
    :glob:

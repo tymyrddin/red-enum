@@ -15,6 +15,6 @@ To compromise the security of the system and potentially gain full access to the
 ## How?
 
 * [Mapping vulnerabilities to exploits](mapping.md)
-* [Prioritisation](prioritisation.md)
+* [Prioritisation of vulnerabilities](prioritisation.md)
 * [Discovering more vulnerabilities/exploits](more.md)
 

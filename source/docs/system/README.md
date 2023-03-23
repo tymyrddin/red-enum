@@ -2,11 +2,11 @@
 
 ## What?
 
-Enumeration is listing and identifying the specific services and resources that a target offers.
+Establish an active connection to the target hosts
 
 ## Why?
 
-Further exploitation of the system. Items of great interest:
+To discover potential attack vectors in the system, and further exploitation of the system. Items of great interest:
 
 * Network services that are running but not in use.
 * Default user accounts that have no passwords.
@@ -16,7 +16,13 @@ Further exploitation of the system. Items of great interest:
 
 ## How?
 
-* [Scanning systems](overview.md)
+* [NetBios enumeration](netbios.md)
+* [SNMP enumeration](snmp.md)
+* [LDAP enumeration](ldap.md)
+* [NTP enumeration](ntp.md)
+* [SMTP enumeration](smtp.md)
+* [DNS enumeration](dns.md)
+* [macOS enumeration](macos.md)
+* [Linux enumeration](linux.md)
+* [Windows enumeration](windows.md)
 * [Scanning virtualised systems](virtual.md)
-* [Scanning a webserver with SQLMap](sqlmap.md)
-

@@ -1,4 +1,4 @@
-# Prioritisation
+# Prioritisation of vulnerabilities
 
 * Asset categorisation — how critical is the system that has vulnerabilities?
 * Adjudication — making a decision on whether the vulnerability discovered is a false positive. Review and validate.

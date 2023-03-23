@@ -1,4 +1,4 @@
-# Scanning
+# Dynamic web application scanning
 
 | Feature                           | Burp Suite<br>Community<br>Edition | OWASP ZAP                                           | Burp Suite Pro                                                 |
 |:----------------------------------|:-----------------------------------|:----------------------------------------------------|:---------------------------------------------------------------|
@@ -16,7 +16,6 @@
 | Session Token<br>Entropy Analysis | Available                          | Not Available                                       | Available                                                      |
 | Comparison Feature                | Available                          | Not Available                                       | Available                                                      |
 
-## Resources
+## Tools
 
-* [Burp on Kali](red-testlab:docs/webapp/burp)
-* [Zaproxy on Kali](red-testlab:docs/webapp/zap)
+* [Web application scanners](red-testlab:docs/enum/app)
