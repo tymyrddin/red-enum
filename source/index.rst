@@ -5,6 +5,9 @@ Move further and deeper into the scanning process to include security scanning. 
 
 The distinction between `reconnaissance <https://red.tymyrddin.dev/projects/recon/en/latest/>`_ and remote enumeration is an arbitrary grey area, and during enumeration new hosts and/or services may show up, so what you can not find here you may find `there <https://red.tymyrddin.dev/projects/recon/en/latest/>`_.
 
+.. image:: _static/images/in-progress.png
+  :alt: Forever in progress ...
+
 ----
 
 .. toctree::

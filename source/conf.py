@@ -87,3 +87,4 @@ intersphinx_mapping = {
     "red-testlab": ("https://red.tymyrddin.dev/projects/testlab/en/latest/", None),
 }
 myst_url_schemes = ["http", "https", ]
+suppress_warnings = ["myst.header"]
