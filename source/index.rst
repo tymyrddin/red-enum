@@ -3,7 +3,7 @@ Lay of the land
 
 Move further and deeper into the scanning process to include security scanning. Enumeration is particularly successful in networks that contain unprotected network resources and services.
 
-The distinction between `reconnaissance <https://red.tymyrddin.dev/projects/recon/en/latest/>`_ and remote enumeration is an arbitrary grey area, and during enumeration new hosts and/or services may show up, so what you can not find here you may find `there <https://red.tymyrddin.dev/projects/recon/en/latest/>`_.
+The distinction between `reconnaissance <https://recon.tymyrddin.dev/>`_ and remote enumeration is an arbitrary grey area, and during enumeration new hosts and/or services may show up, so what you can not find here you may find `there <https://recon.tymyrddin.dev/>`_.
 
 .. image:: _static/images/in-progress.png
   :alt: Forever in progress ...
@@ -15,7 +15,7 @@ The distinction between `reconnaissance <https://red.tymyrddin.dev/projects/reco
    :includehidden:
    :caption: Preparation
 
-   Build a local testlab <https://red.tymyrddin.dev/projects/testlab/en/latest/docs/webapp/README.html>
+   Build a local testlab <https://testlab.tymyrddin.dev/docs/webapp/README>
    docs/overview.md
 
 .. toctree::

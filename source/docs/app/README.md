@@ -11,7 +11,7 @@ Use both for manual and automated scanning of the application.
 
 ## Why?
 
-Move further and deeper into the scanning process to include security scanning and discover [vulnerabilities to exploit](red-app:index). 
+Move further and deeper into the scanning process to include security scanning and discover vulnerabilities to exploit. 
 
 ## How?
 

@@ -13,7 +13,7 @@ Get information from:
 
 ## Tools
 
-* [macOS enumeration tools](red-testlab:docs/enum/macos)
+* [macOS enumeration tools](https://testlab.tymyrddin.dev/docs/enum/macos)
 
 ## Remediation
 

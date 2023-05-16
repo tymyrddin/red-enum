@@ -4,7 +4,7 @@ LDAP supports anonymous remote queries on the server. The query will disclose se
 
 ## Tools
 
-* [LDAP enumeration tools](red-testlab:docs/enum/ldap)
+* [LDAP enumeration tools](https://testlab.tymyrddin.dev/docs/enum/ldap)
 
 ## Remediation
 

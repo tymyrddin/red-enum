@@ -10,7 +10,7 @@ NetBIOS software runs on port 139 on the Windows operating system. File and prin
 
 ## Tools
 
-* [NetBios enumeration tools](red-testlab:docs/enum/netbios)
+* [NetBios enumeration tools](https://testlab.tymyrddin.dev/docs/enum/netbios)
 
 ## Remediation
 

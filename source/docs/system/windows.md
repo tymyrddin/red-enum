@@ -16,7 +16,7 @@ Get information:
 
 ## Tools
 
-* [Windows enumeration tools](red-testlab:docs/enum/windows)
+* [Windows enumeration tools](https://testlab.tymyrddin.dev/docs/enum/windows)
 
 ## Remediation
 

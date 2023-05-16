@@ -10,7 +10,7 @@ Default SNMP passwords allow attackers to view or modify the SNMP configuration 
 
 ## Tools
 
-* [SNMP enumeration tools](red-testlab:docs/enum/snmp)
+* [SNMP enumeration tools](https://testlab.tymyrddin.dev/docs/enum/snmp)
 
 ## Remediation
 

@@ -4,7 +4,7 @@ DNS enumeration is possible by sending zone transfer requests to the DNS primary
 
 ## Tools
 
-* [DNS enumeration tools](red-testlab:docs/enum/dns)
+* [DNS enumeration tools](https://testlab.tymyrddin.dev/docs/enum/dns)
 
 ## Remediation
 

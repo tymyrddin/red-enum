@@ -7,7 +7,7 @@ An attacker can enumerate the following information by querying an NTP server.
 
 ## Tools
 
-* [NTP enumeration tools](red-testlab:docs/enum/ntp)
+* [NTP enumeration tools](https://testlab.tymyrddin.dev/docs/enum/ntp)
 
 ## Remediation
 

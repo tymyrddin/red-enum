@@ -10,7 +10,7 @@ SMTP servers respond differently to the commands mentioned above, and SMTP enume
 
 ## Tools
 
-* [SMTP enumeration tools](red-testlab:docs/enum/smtp)
+* [SMTP enumeration tools](https://testlab.tymyrddin.dev/docs/enum/smtp)
 
 ## Remediation
 

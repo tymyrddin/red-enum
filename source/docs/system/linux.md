@@ -13,7 +13,7 @@ Get information from:
 
 ## Tools
 
-* [Linux enumeration tools](red-testlab:docs/enum/linux)
+* [Linux enumeration tools](https://testlab.tymyrddin.dev/docs/enum/linux)
 
 ## Remediation
 

@@ -1,6 +1,6 @@
 # Automated vulnerability scanning
 
-Pros and cons of using [Automated vulnerability scanners](red-testlab:docs/enum/automated):
+Pros and cons of using [Automated vulnerability scanners](https://testlab.tymyrddin.dev/docs/enum/automated):
 
 ## Advantages
 
