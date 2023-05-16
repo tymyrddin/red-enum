@@ -1,9 +1,6 @@
 # Enumeration
 
-Built with [Sphinx](https://www.sphinx-doc.org) using a [theme](https://github.com/readthedocs/sphinx_rtd_theme) provided
-by [Read the Docs](https://readthedocs.org/).
-
-[![Documentation Status](https://readthedocs.org/projects/red-enum/badge/?version=latest)](https://red.tymyrddin.dev/projects/enum/en/latest/?badge=latest)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3fa8b82c-097e-4985-9d3c-a504cc047218/deploy-status)](https://app.netlify.com/sites/golden-brigadeiros-213bdb/deploys)
 
 ## Requirements
 
